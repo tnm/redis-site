@@ -1,46 +1,44 @@
-
 body {
     font-family: 'Lucida Grande', Geneva, Verdana, Arial, Helvetica, sans-serif;
-	margin: 0;
-	text-align:center;
+    margin: 0;
+    text-align:center;
 }
 
 a {
-	text-decoration: none;
-	color: #3471CD;
+    text-decoration: none;
+    color: #3471CD;
 }
 
 a:hover {
-
-	text-decoration: none;
+    text-decoration: none;
     border-bottom: 1px dotted;
-	color: #3471CD;
+    color: #3471CD;
 }
 
 .wrapper {
-	clear: both;
+    clear: both;
 }
 
 .header {
-	text-align:left;
+    text-align:left;
     line-height: 180%;
     margin: 0 auto;
-	width: 800px;
+    width: 800px;
     background-color: #F0F0F0;
-    padding: 20px 50px 10px 50px;
-	border-left: 1px solid #999;
+    padding: 20px 50px 10px 50px;   
+    border-left: 1px solid #999;
     border-right: 1px solid #999;
     border-bottom: 1px solid #999;
 }
 
 .main {
-	text-align:left;
+    text-align:left;
     line-height: 180%;
     margin: 0 auto;
-	width: 800px;
+    width: 800px;
     background-color: #F0F0F0;
     padding: 10px 50px 20px 50px;
-	border-left: 1px solid #999;
+    border-left: 1px solid #999;
     border-right: 1px solid #999;
 }
 
@@ -49,16 +47,16 @@ a:hover {
     clear: both;
     margin:0px;
     padding:10px 0px 25px 0px;
-	border-top:1px solid #999;
+    border-top:1px solid #999;
 }
 
 h1 {
-	font-size: 26px;
+    font-size: 26px;
     text-shadow: 1px 1px 1px #FFF;
 }
 
 h2 {
-	font-size: 24px;
+    font-size: 24px;
     text-shadow: 1px 1px 1px #FFF;
 }
 
