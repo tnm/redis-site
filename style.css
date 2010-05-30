@@ -32,14 +32,14 @@ a:hover {
     position: relative;
 }
 
-#sponsor IMG {
-    border:none;
+#sponsor {
+    position: absolute;
+    right: 20px;
+    top: 10px;
 }
 
-#sponsor {
-    position:absolute;
-    right:5px;
-    top:5px;
+#sponsor img {
+    border:none;
 }
 
 .main {
@@ -67,7 +67,7 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 26px;
     text-shadow: 1px 1px 1px #FFF;
 }
 
