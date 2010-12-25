@@ -1,8 +1,5 @@
 redis.io
 ========
 
-a simple, central, official site for Redis.
+development for the redis site is now at https://github.com/antirez/redis-io 
 
-it's live at http://redis.io
-
-please feel free to fork it. some awesome, simple style is the priority. 
